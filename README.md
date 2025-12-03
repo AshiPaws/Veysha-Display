@@ -18,23 +18,4 @@ Mobile-First PWA: Optimized for installation directly onto the home screen of iO
 
 Theme Persistence: Remembers user's dark/light mode and color choice.
 
-Quick Pops: Pre-set button phrases for rapid communication.
-
-🚀 Live Demo & Installation
-
-The Veysha Display app is hosted and downloadable instantly via GitHub Pages.
-
-1. Access the App
-[LIVE DEMO LINK GOES HERE]
-
-2. How to Install (iOS / Android PWA)
-
-To use Veysha Display like a native app on your home screen:
-
-Open the Live Demo Link above in your mobile browser (Safari for iOS, Chrome for Android).
-
-Tap the Share button (iOS: square with arrow up, Android: three vertical dots).
-
-Select "Add to Home Screen."
-
-The app will now launch full-screen with its custom icon, ready for instant use!
+Quick Pops: Pre-set button phrases for rapid communication
