@@ -1,21 +1,51 @@
-💬 Veysha Display App
+💬 Veysha Display: An Accessible Communication Tool
 
-Developed by AURALIS SYSTEMS
+A Minimalist PWA Developed by AURALIS SYSTEMS
 
-Veysha Display is a minimal, fast, and accessible communication tool designed for environments where speaking is difficult or impossible (e.g., loud locations, medical situations, or for non-verbal communication).
+Veysha Display is a fast, highly accessible application designed to facilitate communication when speaking is difficult, impossible, or inappropriate (e.g., in loud industrial settings, quiet medical environments, or for non-verbal users).
 
-This app allows users to quickly type a message and display it in large, full-screen text, which can be instantly flipped for easier readability by another person standing opposite the user.
+This application is built as a Progressive Web App (PWA) to install instantly and run full-screen on any mobile device.
 
-✨ Key Features
+✨ Core Features & Design Philosophy
 
-Instant Fullscreen Display: Enlarges text to fill the entire screen for maximum visibility.
+The application provides a polished, modern interface focused entirely on quick, clear visual output.
 
-Zero Latency: Built with React/Vite for snappy performance, even on older mobile devices.
+Primary User Interface
 
-Mirror Mode (Flip): Instantly flips the displayed text 180 degrees, ensuring the person across from the device can read it easily.
+The main screen is designed for high contrast and quick input, minimizing clutter for communication urgency.
 
-Mobile-First PWA: Optimized for installation directly onto the home screen of iOS and Android devices, behaving like a native application.
+<div align="center">
+<!-- Place your main Home Screen image here -->
+<img src="assets/app_main_screen_dark.jpg" alt="Veysha Display Main Input Screen" width="350" />
+</div>
 
-Theme Persistence: Remembers user's dark/light mode and color choice.
+Feature
 
-Quick Pops: Pre-set button phrases for rapid communication
+Description
+
+Optimal Clarity
+
+Displays text filling the entire screen for maximum readability.
+
+Zero-Delay UI
+
+Built to respond instantaneously to user input, crucial for time-sensitive exchanges.
+
+Mirror Mode (Flip)
+
+Tapping the Flip button instantly rotates the text 180 degrees, allowing a person standing opposite the user to read the message easily.
+
+Settings and Customization
+
+Users can personalize the appearance and function via the Settings panel. This includes comprehensive theming options and category management.
+
+<div align="center">
+<!-- Place your Settings Screen image here -->
+<img src="assets/app_settings.jpg" alt="Veysha Display Settings Panel" width="350" />
+</div>
+
+System-Wide Theming: Supports dynamic Dark Mode (default) and Light Mode.
+
+Secret 'Cyber Void' Theme: Unlocked via a specific interaction, this theme provides a unique high-contrast, blue-purple aesthetic in both Dark and Light modes.
+
+Custom Quick Pop Categories: Added the ability to customize and rename the Quick Pop categories (e.g., Core, Needs, Feelings).
