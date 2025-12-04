@@ -11,24 +11,24 @@ Primary User Interface
 The main screen is designed for high contrast and quick input, minimizing clutter for communication urgency.
 <div align="left">
 <!-- Place your main Home Screen image here -->
-<img src="https://i.imgur.com/HjBkvJh.jpeg" alt="Veysha Display Main Input Screen (Dark Mode)" width="350" />
+<img src="https://i.imgur.com/HjBkvJh.jpeg" alt="Veysha Display Main Input Screen (Dark Mode)" width="150" />
 </div>
 <div align="left">
 <!-- Place your main Home Screen image here -->
-<img src="https://i.imgur.com/OndzYfs.jpeg" alt="Veysha Display Main Input Screen (Light Mode)" width="350" />
+<img src="https://i.imgur.com/OndzYfs.jpeg" alt="Veysha Display Main Input Screen (Light Mode)" width="150" />
 </div>
 
 Optimal Clarity
 Displays text filling the entire screen for maximum readability.
 <div align="left">
 <!-- Place your main Home Screen image here -->
-<img src="https://i.imgur.com/NlCQ3F5.jpeg" alt="Veysha Display Large Text Display" width="350" />
+<img src="https://i.imgur.com/NlCQ3F5.jpeg" alt="Veysha Display Large Text Display" width="150" />
 </div>
 
 Saves History: The app saves what you type in a seperate history screen!
 <div align="left">
 <!-- Place your main Home Screen image here -->
-<img src="https://i.imgur.com/DphnALr.jpeg" alt="Veysha Display Text History (Also In Dark Mode)" width="350" />
+<img src="https://i.imgur.com/DphnALr.jpeg" alt="Veysha Display Text History (Also In Dark Mode)" width="150" />
 </div>
 
 Mirror Mode (Flip): Tapping the Flip button instantly rotates the text 180 degrees, allowing a person standing opposite the user to read the message easily.
@@ -41,7 +41,7 @@ System-Wide Theming: Supports dynamic Dark Mode (default) and Light Mode.
 Secret 'Cyber Void' Theme: Unlocked via a specific interaction, this theme provides a unique high-contrast, blue-purple aesthetic in both Dark and Light modes.
 <div align="left">
 <!-- Place your Settings Screen image here -->
-<img src="https://i.imgur.com/rrZNHCG.jpeg" alt="Veysha Display Settings Panel" width="350" />
+<img src="https://i.imgur.com/rrZNHCG.jpeg" alt="Veysha Display Settings Panel" width="150" />
 </div>
 
 
