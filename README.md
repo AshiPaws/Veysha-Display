@@ -43,3 +43,9 @@ Secret 'Cyber Void' Theme: Unlocked via a specific interaction, this theme provi
 <!-- Place your Settings Screen image here -->
 <img src="https://i.imgur.com/rrZNHCG.jpeg" alt="Veysha Display Settings Panel" width="350" />
 </div>
+
+
+First Release in releases --->
+
+You can also run a dedicated web app as well! (Though it may or may not save progress).
+https://ashipaws.github.io/Veysha-Display/
